@@ -1,3 +1,24 @@
+
+# Special graphical interface prepared for [Blacksmith Organization System](https://github.com/Sarverott/blacksmith-organization-system)
+
+```
+      █▄▄ █░░ ▄▀█ █▀▀ █▄▀ █▀ █▀▄▀█ █ ▀█▀ █░█
+      █▄█ █▄▄ █▀█ █▄▄ █░█ ▄█ █░▀░█ █ ░█░ █▀█
+
+   █▀█ █▀█ █▀▀ ▄▀█ █▄░█ █ ▀█ ▄▀█ ▀█▀ █ █▀█ █▄░█
+   █▄█ █▀▄ █▄█ █▀█ █░▀█ █ █▄ █▀█ ░█░ █ █▄█ █░▀█
+
+             █▀ █▄█ █▀ ▀█▀ █▀▀ █▀▄▀█
+             ▄█ ░█░ ▄█ ░█░ ██▄ █░▀░█
+```
+> ###### [Sett Sarverott](https://github.com/Sarverott) @ 2019-2024
+---
+
+### automation of management in personal forest of projects  
+> Part of R tier project "ANUBIS",
+
+
+
 # bos-gui
 
 This template should help get you started developing with Vue 3 in Vite.
